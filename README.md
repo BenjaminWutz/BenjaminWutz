@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenjaminWutz
 - 👀 I’m interested in ... Cyber security and blockchain
-- 🌱 I’m currently learning ... both 
-- 💞️ I’m looking to collaborate on ... pobbile blockchain application
+- 🌱 I’m currently learning ... new things everyday 
+- 💞️ I’m looking to collaborate on ... blockchain application
 - 📫 How to reach me ... 
 
 <!---
